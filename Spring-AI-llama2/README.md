@@ -52,8 +52,6 @@ For further reference, please consider the following sections:
 
 #### Response
 
-```json
-{
-  "response": "Once upon a time, AI revolutionized the world..."
-}
+```
+The current Prime Minister of India is Narendra Modi. He was sworn in as the Prime Minister of India for a second term on May 30, 2019."
 ```
