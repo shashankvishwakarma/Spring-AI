@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Ollama-llama2-Demo
+  ai:
+    ollama:
+      base-url: http://localhost:11434/
+      model: llama2
+
+server:
+  port: 9292
