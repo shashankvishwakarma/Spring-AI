@@ -12,7 +12,11 @@ dist
 dist-ssr
 *.local
 
+### IntelliJ IDEA ###
+.idea
+
 # Editor directories and files
+.idea/*
 .vscode/*
 !.vscode/extensions.json
 .idea
